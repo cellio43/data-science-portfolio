@@ -1,4 +1,12 @@
 title: Data Science Portfolio
-description: Documenting my learning in Data Structures
+description: Documenting my learning in Data Science
 theme: jekyll-theme-minimal
+logo: profile.png
+author: Connor Elliott
 show_downloads: false
+github:
+  is_project_page: false
+social_links:
+  github: https://github.com/cellio43
+  linkedin: https://linkedin.com/in/yourprofile
+
