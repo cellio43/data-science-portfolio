@@ -1,3 +1,4 @@
+[ProjectDraft.html](https://github.com/user-attachments/files/32170766/ProjectDraft.html)
 # Projects
 This section documents my data science projects, research questions, and data stories I create throughout the semesters.
 ---
@@ -53,6 +54,43 @@ How large is the dataset, and what assumptions were made during collection?
 
   The data set is very large since it contains information about champions dating back to the tournament's inception in 1928. The main assumption that was made is through the weight-classes throughout the years. There haven’t always been 10 weight classes and the specific weight classes have changed, slightly, overtime. Therefore, the comparison isn’t exactly one-to-one in this sense. Secondly, when I am comparing the number of champions for each school I didn’t take into account that some schools may have had more appearances in the tournament or older programs than others. This affects how fairly I can compare the championship counts across different schools and highlights that viewers should take the conclusions with a grain of salt. 
 
+
+3. Data Cleaning and Preparation
+
+The raw data from the National Wrestling Hall of Fame website had a table that contained the weight class, wrestler, and the wrestler's school/university for a specific year. In order to get this data into my vs code in a clean table format I implemented the following code: 
+
+``` python
+def clean_season_table(raw_df, year):
+    df = raw_df.copy()
+    for col in df.columns:
+        df[col] = df[col].astype(str).str.replace(
+            rf'^{re.escape(col)}\s*', '', regex=True, flags=re.IGNORECASE
+        ).str.strip()
+    df['Year'] = year
+    return df
+```
+
+Then, I checked to see if any years had missing data before processing it by writing: 
+
+```python
+if len(tables) > 0 and len(tables[0]) > 0:
+    df = clean_season_table(tables[0], year)
+    all_champions.append(df)
+else:
+    years_with_no_data.append(year)
+```
+This allowed me to see that 1943 - 1945 had no data. I conducted research as to why that might be and found out that those specific tournament years were canceled due to World War 2. Additionally, 2020 didn't have any data because the tournament was cancelled due to Covid-19. 
+
+The years 2024 - 2026 weren't included in the National Wrestling Hall of Fame website so I found them from different sources and manually entered the data rather than scraping it. Then, I made sure there were no duplicate entries and sorted the dataset chronologically by coding: 
+
+```python
+combined = combined.drop_duplicates(subset=["Year", "Weight", "Wrestler"])
+combined = combined.sort_values(["Year"]).reset_index(drop=True)
+``` 
+
+Explain why you removed rows, handled missing values, filtered data, or transformed
+
+I didn't end up removing any rows because each row in the dataset represents a certain individual champion and there was no invalid or incorrect information to address. The main data cleaning and transformation I addressed was converting the data into a useable format. The raw scrapped data made a table that wasn't visually appealing and contained some duplicate headings. So, I focused on fixing that. Finally, I checked for duplicates just to double check that all my data was appearing correctly especially since I combined data from automated scraping (1928 - 2023) and manual entry (2024 - 2026).   
 
 
 
