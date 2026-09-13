@@ -54,6 +54,8 @@ How large is the dataset, and what assumptions were made during collection?
   The data set is very large since it contains information about champions dating back to the tournament's inception in 1928. The main assumption that was made is through the weight-classes throughout the years. There haven’t always been 10 weight classes and the specific weight classes have changed, slightly, overtime. Therefore, the comparison isn’t exactly one-to-one in this sense. Secondly, when I am comparing the number of champions for each school I didn’t take into account that some schools may have had more appearances in the tournament or older programs than others. This affects how fairly I can compare the championship counts across different schools and highlights that viewers should take the conclusions with a grain of salt. 
 
 
+
+
 Where did your data come from? Provide citations and links.
 
 For 1928- 2023
