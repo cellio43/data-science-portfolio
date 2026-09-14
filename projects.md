@@ -146,7 +146,7 @@ This graph clearly shows Penn State's dominance in recent years as they have 29.
 
   Although the conclusions I have drawn are backed by data, there are some pieces of information this study fails to capture. The most important missing pieces of data that is not considered in my analysis are the number of appearances in the tournament per team, how new or old each program is, and differences in funding, facilities, and other resources that each team gets. Additionally, I only considered if a wrestler won the tournament or lost - I didn't examine any data on wrestlers who placed but didn’t win (2nd, All-American status, etc) 
 
-####What biases or collection gaps exist in the data?
+#### What biases or collection gaps exist in the data?
 
   There isn't any bias in this data because it is either the wrestler won or they didn't. However, there are some slight collection gaps from 1943 - 1945 (no data, tournament cancelled due to World War 2) and 2020 (tournament cancelled due to Covid-19). Additionally, weight classes have changed slightly over the years as there hasn't always been 10 weight classes and the specific weight numbers have changed slightly over the years. 
 
