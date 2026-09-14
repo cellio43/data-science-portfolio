@@ -9,7 +9,7 @@ and data stories I create throughout the semesters.
 
 ## Project1 - EDA on Collegiate Wrestling
 
-**Table of Contents:** 1. Problem Definition &nbsp;·&nbsp; 2. Data Description &nbsp;·&nbsp; 3. Data Cleaning &nbsp;·&nbsp; 4. Visualizations &nbsp;·&nbsp; 5. Limitations
+**Table of Contents:** 1. Problem Definition &nbsp;·&nbsp; 2. Data Description &nbsp;·&nbsp; 3. Data Cleaning &nbsp;·&nbsp; 4. Visualizations &nbsp;·&nbsp;
 
 <div class="toc-buttons">
   <a href="#1-problem-definition">Problem Definition</a>
@@ -159,13 +159,21 @@ You can view my full code in my [GitHub repository](https://github.com/cellio43/
 
 I used some generative AI to help me with this assignment and the specific generative AI that I used was Claude AI. Claude AI was used to help me with code debugging if I ran into errors. More specifically, it helped explain the errors in my code when I was trying to perform data scraping and was getting errors. Additionally, it helped me debug syntax errors and explained errors in my code when I was trying to create certain graphs, charts, etc. and was getting errors. Finally, it made some suggested changes to my code throughout the project if it thought the changes would make my data scraping more efficient or make my graphs look more visually appealing.    
 
-## Data Sources
+## 8. References
 
-For 1928-2023: [nwhof.org Champions Database](https://api.nwhof.org/national-wrestling-hall-of-fame/champions-database?school=&season=1929&wrestler=)
+**Peer-Reviewed Sources**
 
-For 2024: [NCAA.com - Penn State Wins 2024 DI Championship](https://www.ncaa.com/live-updates/wrestling-men/d1/penn-state-wins-2024-di-mens-ncaa-wrestling-championship)
+Bigsby, K. G., & Ohlmann, J. W. (2017). Ranking and prediction of collegiate wrestling. *Journal of Sports Analytics*. https://doi.org/10.3233/JSA-160024
 
-For 2025: [FloWrestling - 2025 Finals Results](https://www.flowrestling.org/articles/13971188-ncaa-wrestling-championships-2025-finals-results-heres-every-champion)
+Soyguden, A., & Ryan, T. (2026). Technical analysis of the 2023 NCAA Wrestling Championships. *Journal of ROL Sport Sciences, 7*, 1–9. https://doi.org/10.70736/jrolss.2066
 
-For 2026: [FloWrestling - 2026 Every Champion](https://www.flowrestling.org/articles/15675254-heres-every-2026-ncaa-wrestling-champion)
+Chaabene, H., Negra, Y., Bouguezzi, R., Mkaouer, B., Franchini, E., Julio, U., & Hachana, Y. (2017). Physical and physiological attributes of wrestlers: An update. *Journal of Strength and Conditioning Research, 31*(5), 1411–1442. https://doi.org/10.1519/JSC.0000000000001738
+
+**Data Sources**
+
+National Wrestling Hall of Fame. (n.d.). *Champions database*. Retrieved September 13, 2026, from https://api.nwhof.org/national-wrestling-hall-of-fame/champions-database?school=&season=1929&wrestler=
+
+NCAA.com. (2024, March 23). *Penn State wins 2024 DI men's NCAA wrestling championship*. https://www.ncaa.com/live-updates/wrestling-men/d1/penn-state-wins-2024-di-mens-ncaa-wrestling-championship
+
+FloWrestling. (2025, March 22). *NCAA wrestling championships 2025 finals results: Here's every
 
