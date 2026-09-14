@@ -136,18 +136,13 @@ This graph clearly shows Penn State's dominance in recent years as they have 29.
 
   In conclusion, there is an association between the D1 wrestling program a wrestler attends and their likelihood of winning an individual championship. Additionally, the individual champions are largely concentrated among a small number of top programs. The data analysis that I conducted is fairly thorough, but I there is always room for improvement. When looking at the findings of this study it should be considered that I did not include every variable possible. There are schools that very consistently produce lots of individual champions, but there are other factors that go into the wrestlers winning titles. Ultimately, it is possible to win a national title no matter what school you attend.  
 
-### Data Sources
+## Data Sources
 
-For 1928- 2023: 
-https://api.nwhof.org/national-wrestling-hall-of-fame/champions-database?school=&season=1929&wrestler= 
+For 1928-2023: [nwhof.org Champions Database](https://api.nwhof.org/national-wrestling-hall-of-fame/champions-database?school=&season=1929&wrestler=)
 
-For 2024: 
-https://www.ncaa.com/live-updates/wrestling-men/d1/penn-state-wins-2024-di-mens-ncaa-wrestling-championship 
+For 2024: [NCAA.com - Penn State Wins 2024 DI Championship](https://www.ncaa.com/live-updates/wrestling-men/d1/penn-state-wins-2024-di-mens-ncaa-wrestling-championship)
 
-For 2025:  
-https://www.flowrestling.org/articles/13971188-ncaa-wrestling-championships-2025-finals-results-heres-every-champion 
+For 2025: [FloWrestling - 2025 Finals Results](https://www.flowrestling.org/articles/13971188-ncaa-wrestling-championships-2025-finals-results-heres-every-champion)
 
-For 2026: 
-https://www.flowrestling.org/articles/15675254-heres-every-2026-ncaa-wrestling-champion 
-
+For 2026: [FloWrestling - 2026 Every Champion](https://www.flowrestling.org/articles/15675254-heres-every-2026-ncaa-wrestling-champion)
 
