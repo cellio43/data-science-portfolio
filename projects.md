@@ -16,8 +16,10 @@ and data stories I create throughout the semesters.
   <a href="#2-data-description">Data Description</a>
   <a href="#3-data-cleaning-and-preparation">Data Cleaning</a>
   <a href="#4-visualizations-and-insights">Visualizations</a>
+  <a href="#5-storytelling-and-narrative">Storytelling</a>
   <a href="#6-limitations-ethics-and-reflection">Limitations</a>
-  <a href ="#7-code-and-transparency">Code and Transparency</a>
+  <a href="#7-code-and-transparency">Code and Transparency</a>
+  <a href="#8-references">References</a>
 </div>
 
 ### 1. Problem Definition 
