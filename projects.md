@@ -121,7 +121,7 @@ combined = combined.sort_values(["Year"]).reset_index(drop=True)
   
 <img class="wide-img" width="800" height="auto" alt="output3" src="https://github.com/user-attachments/assets/ff1bc349-b451-42b4-bc88-bf3081414f4f" />
 
-  Both of the above graphs show the top 5 schools with the most individual champions, by decade just in different formats. The results illustrate that Oklahoma State dominated the NCAA D1 Wrestling Tournament from the start of the tournament, in 1928, through around 1960. The 1970s was pretty balanced among between Iowa State and Oklahoma State. From 1980 to 1990 Iowa was the clear top school for individual champions. During the 2000s Oklahoma State reclaimed the top spot. Then, from around 2010 through 2026 Penn State has absolutely dominated college wrestling with a big lead in individual champions.  
+  Both of the above graphs show the top 5 schools with the most individual champions, by decade, just in different formats. The results illustrate that Oklahoma State dominated the NCAA D1 Wrestling Tournament from the start of the tournament, in 1928, through around 1960. The 1970s was pretty balanced between Iowa State and Oklahoma State. From 1980 to 1990 Iowa was the clear top school for individual champions. During the 2000s Oklahoma State reclaimed the top spot. Then, from around 2010 through 2026 Penn State has absolutely dominated college wrestling with a big lead in individual champions.  
 
 
 <img class="wide-img" width="800" height="auto" alt="output2" src="https://github.com/user-attachments/assets/4d3f33e7-ac44-48a5-8711-4bf04aef5c27" />
