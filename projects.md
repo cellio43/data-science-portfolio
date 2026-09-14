@@ -1,13 +1,19 @@
 # Projects
 This section documents my data science projects, research questions, and data stories I create throughout the semesters.
 ---
+This section documents my data science projects, research questions,
+and data stories I create throughout the semesters.
+
+## Project1 - EDA on Collegiate Wrestling
+
+**Table of Contents:** 1. Problem Definition &nbsp;·&nbsp; 2. Data Description &nbsp;·&nbsp; 3. Data Cleaning &nbsp;·&nbsp; 4. Visualizations &nbsp;·&nbsp; 5. Limitations
 
 <div class="toc-buttons">
-  <a href="#problem-definition">Problem Definition</a>
-  <a href="#data-description">Data Description</a>
-  <a href="#data-cleaning-and-preparation">Data Cleaning</a>
-  <a href="#visualizations-and-insights">Visualizations</a>
-  <a href="#limitations-ethics-and-reflection">Limitations</a>
+  <a href="#1-problem-definition">Problem Definition</a>
+  <a href="#2-data-description">Data Description</a>
+  <a href="#3-data-cleaning-and-preparation">Data Cleaning</a>
+  <a href="#4-visualizations-and-insights">Visualizations</a>
+  <a href="#6-limitations-ethics-and-reflection">Limitations</a>
 </div>
 
 ## Project1 - EDA on Collegiate Wrestling 
