@@ -40,3 +40,24 @@ img {
 .project-name {
   margin-bottom: 0.25rem;
 }
+
+.toc-buttons {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+.toc-buttons a {
+  background: #2a5d9f;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  text-decoration: none;
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+.toc-buttons a:hover {
+  background: #1e4577;
+}
