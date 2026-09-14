@@ -12,3 +12,4 @@ This website will document my learning and projects throughout the semester
 - [Blog](blog.md)
 - [Projects](projects.md)
 - <a href="https://linkedin.com/in/connor-elliott-515a43433" class="home-button" target="_blank">LinkedIn</a>
+- [Download my resume (PDF)](resume.pdf)
