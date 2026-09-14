@@ -114,19 +114,19 @@ combined = combined.sort_values(["Year"]).reset_index(drop=True)
 ### 4. Visualizations and Insights
 
 
-<img width="800" height="auto" alt="output4" src="https://github.com/user-attachments/assets/b2c972c7-c3c3-458d-bccd-020d697c29c6" />
+<img class="wide-img" width="800" height="auto" alt="output4" src="https://github.com/user-attachments/assets/b2c972c7-c3c3-458d-bccd-020d697c29c6" />
 
   
-<img width="800" height="auto" alt="output3" src="https://github.com/user-attachments/assets/ff1bc349-b451-42b4-bc88-bf3081414f4f" />
+<img class="wide-img" width="800" height="auto" alt="output3" src="https://github.com/user-attachments/assets/ff1bc349-b451-42b4-bc88-bf3081414f4f" />
 
   Both of the above graphs show the top 5 schools with the most individual champions, by decade just in different formats. The results illustrate that Oklahoma State dominated the NCAA D1 Wrestling Tournament from the start of the tournament, in 1928, through around 1960. The 1970s was pretty balanced among between Iowa State and Oklahoma State. From 1980 to 1990 Iowa was the clear top school for individual champions. During the 2000s Oklahoma State reclaimed the top spot. Then, from around 2010 through 2026 Penn State has absolutely dominated college wrestling with a big lead in individual champions.  
 
 
-<img width="800" height="auto" alt="output2" src="https://github.com/user-attachments/assets/4d3f33e7-ac44-48a5-8711-4bf04aef5c27" />
+<img class="wide-img" width="800" height="auto" alt="output2" src="https://github.com/user-attachments/assets/4d3f33e7-ac44-48a5-8711-4bf04aef5c27" />
 
   This graph shows the championship concentration of the top 25 schools compared to all other schools that have ever had an individual champion in the tournament. The results highlight the fact that the majority of champions are definitely concentrated among a small number of top programs. The right side of the y-axis shows the cumulative percentage of all championship and the red line on the graph helps illustrate that. Simply put, the red line tracks a running total of the percentage shown on the right side of the chart. Pick any point on the line and it tells you "counting every school up to this one, we have covered X% of all championships". The steep increase at first shows that a few top schools hold a disproportionate amount of all titles. The line flattens out towards the top of the graph because the remaining schools only add a small amount of championships to the running total. If titles were evenly distributed across all schools, then the line would be a straight diagonal. The gray dashed line marks the 80% point and shows that 19 of the top 25 schools account for 80% of all individual championships ever awarded. 
 
-<img width="800" height="auto" alt="output" src="https://github.com/user-attachments/assets/66037aca-0d98-4524-90b8-2af734bd1b7a" />
+<img class="wide-img" width="800" height="auto" alt="output" src="https://github.com/user-attachments/assets/66037aca-0d98-4524-90b8-2af734bd1b7a" />
 
 This graph highlights the same conclusion as the previous graph, just in a different format because all the schools are plotted individually instead of showing the top 25 plus a combined "all other schools" bar. 
 
