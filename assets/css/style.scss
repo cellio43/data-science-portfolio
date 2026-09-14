@@ -25,6 +25,48 @@ blockquote {
   font-style: italic;
 }
 
+---
+---
+@import "jekyll-theme-minimal";
+
+p {
+  text-indent: 2em;
+}
+
+.main-content {
+  max-width: 720px;
+  line-height: 1.6;
+}
+
+h2 {
+  color: #2a5d9f;
+  border-bottom: 2px solid #2a5d9f;
+  padding-bottom: 4px;
+}
+
+blockquote {
+  border-left: 4px solid #2a5d9f;
+  padding-left: 16px;
+  margin-left: 0;
+  color: #444;
+  font-style: italic;
+}
+
+img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  margin: 20px 0;
+}
+
+header {
+  text-align: center;
+}
+
+header img {
+  display: block;
+  margin: 0 auto;
+}
+
 img {
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
