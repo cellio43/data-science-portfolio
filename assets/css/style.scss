@@ -83,3 +83,16 @@ img {
 .home-button:hover {
   background: #1e4577;
 }
+img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  margin: 20px 0;
+  max-width: 100%;
+}
+
+.wide-img {
+  max-width: 900px;
+  width: 100%;
+  display: block;
+  margin: 20px auto;
+}
