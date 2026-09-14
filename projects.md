@@ -1,6 +1,7 @@
 ---
 title: Projects
 --- 
+<a href="/" class="home-button">← Back to Home</a>
 This section documents my data science projects, research questions,
 and data stories I create throughout the semesters.
 
