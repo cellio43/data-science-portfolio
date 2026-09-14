@@ -9,7 +9,7 @@ and data stories I create throughout the semesters.
 
 ## Project1 - EDA on Collegiate Wrestling
 
-**Table of Contents:** 1. Problem Definition &nbsp;·&nbsp; 2. Data Description &nbsp;·&nbsp; 3. Data Cleaning &nbsp;·&nbsp; 4. Visualizations &nbsp;·&nbsp;
+**Table of Contents:** 1. Problem Definition &nbsp;·&nbsp; 2. Data Description &nbsp;·&nbsp; 3. Data Cleaning &nbsp;·&nbsp; 4. Visualizations &nbsp;·&nbsp; 5. Storytelling and Narrative &nbsp;·&nbsp; 6. Limitations &nbsp;·&nbsp; 7. Code and Transparency &nbsp;·&nbsp; 8. References
 
 <div class="toc-buttons">
   <a href="#1-problem-definition">Problem Definition</a>
