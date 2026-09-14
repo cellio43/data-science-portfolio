@@ -1,5 +1,8 @@
 # Blog
 Throughout this course, I will write posts about data science topics I am interested in.
+
+<a href="index.html" class="home-button">← Back to Home</a>
+
 ## Blog 1
 What is Data Science to Me? Why is it Important to learn Data Science in Social and Interdisciplinary Contexts?
 
