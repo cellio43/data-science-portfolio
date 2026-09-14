@@ -1,6 +1,15 @@
 # Projects
 This section documents my data science projects, research questions, and data stories I create throughout the semesters.
 ---
+
+<div class="toc-buttons">
+  <a href="#problem-definition">Problem Definition</a>
+  <a href="#data-description">Data Description</a>
+  <a href="#data-cleaning-and-preparation">Data Cleaning</a>
+  <a href="#visualizations-and-insights">Visualizations</a>
+  <a href="#limitations-ethics-and-reflection">Limitations</a>
+</div>
+
 ## Project1 - EDA on Collegiate Wrestling 
 
 ### 1. Problem Definition 
