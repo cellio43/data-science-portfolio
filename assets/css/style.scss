@@ -1,7 +1,6 @@
-
 ---
 ---
-@import "jekyll-theme-minimal";
+@import "jekyll-theme-cayman";
 
 p {
   text-indent: 2em;
@@ -10,6 +9,7 @@ p {
 .main-content {
   max-width: 720px;
   line-height: 1.6;
+  margin: 0 auto;
 }
 
 h2 {
@@ -30,13 +30,13 @@ img {
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
   margin: 20px 0;
+  max-width: 100%;
 }
 
-header {
-  text-align: center;
+.page-header {
+  padding: 2rem 1rem;
 }
 
-header img {
-  display: block;
-  margin: 0 auto;
+.project-name {
+  margin-bottom: 0.25rem;
 }
