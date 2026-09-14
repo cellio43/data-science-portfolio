@@ -16,8 +16,6 @@ and data stories I create throughout the semesters.
   <a href="#6-limitations-ethics-and-reflection">Limitations</a>
 </div>
 
-## Project1 - EDA on Collegiate Wrestling 
-
 ### 1. Problem Definition 
   Every year, at the end of the season, the NCAA holds a tournament for each division of wrestling. This EDA will focus on the Division 1 Wrestling NCAA Championships. At the Division 1 level of college wrestling there are 10 weight classes (125, 133, 141, 149, 157, 165, 174, 184, 197, 285). Winning the tournament is a big deal as there have only been seven 4x champions and one 5x champion. Winning an individual national championship is the ultimate goal in collegiate wrestling. So, many recruits will choose what school to commit to based on how well that school typically performs in the tournament. 
   The goal of this EDA is to address the question, "Is an association between the D1 wrestling program a wrestler attends and their likelihood of winning an individual championship, and are individual championships concentrated among a small number of top programs?". This question is relevant because it helps gain more insight into which programs typically perform the best at the NCAA D1 Wrestling Championships. The main stakeholders for this EDA would be recruits, their families, coaches, athletic departments, athletic directors, university administrators, the NCAA, conference bodies, sports media, and fans. 
