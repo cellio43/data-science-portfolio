@@ -67,3 +67,18 @@ img {
   opacity: 1;
   font-weight: 500;
 }
+.home-button {
+  display: inline-block;
+  background: #2a5d9f;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  text-decoration: none;
+  font-size: 0.9em;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.home-button:hover {
+  background: #1e4577;
+}
