@@ -152,6 +152,12 @@ This graph clearly shows Penn State's dominance in recent years as they have 29.
 
   In conclusion, there is an association between the D1 wrestling program a wrestler attends and their likelihood of winning an individual championship. Additionally, the individual champions are largely concentrated among a small number of top programs. The data analysis that I conducted is fairly thorough, but I there is always room for improvement. When looking at the findings of this study it should be considered that I did not include every variable possible. There are schools that very consistently produce lots of individual champions, but there are other factors that go into the wrestlers winning titles. Ultimately, it is possible to win a national title no matter what school you attend.  
 
+### 7. Code and Transparency 
+
+You can view my full code in my [GitHub repository](https://github.com/cellio43/data-science-portfolio). 
+
+I used some generative AI to help me with this assignment and the specific generative AI that I used was Claude AI. Claude AI was used to help me with code debugging if I ran into errors. More specifically, it helped explain the errors in my code when I was trying to perform data scraping and was getting errors. Additionally, it helped me debug syntax errors and explained errors in my code when I was trying to create certain graphs, charts, etc. and was getting errors. Finally, it made some suggested changes to my code throughout the project if it thought the changes would make my data scraping more efficient or make my graphs look more visually appealing.    
+
 ## Data Sources
 
 For 1928-2023: [nwhof.org Champions Database](https://api.nwhof.org/national-wrestling-hall-of-fame/champions-database?school=&season=1929&wrestler=)
