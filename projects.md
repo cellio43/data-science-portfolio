@@ -1,4 +1,3 @@
-[ProjectDraft.html](https://github.com/user-attachments/files/32170766/ProjectDraft.html)
 # Projects
 This section documents my data science projects, research questions, and data stories I create throughout the semesters.
 ---
@@ -111,12 +110,45 @@ https://www.flowrestling.org/articles/15675254-heres-every-2026-ncaa-wrestling-c
 
 
 
-
-
+4. Visualizations and Insights
 
 
 <img width="800" height="auto" alt="output4" src="https://github.com/user-attachments/assets/b2c972c7-c3c3-458d-bccd-020d697c29c6" />
+
+  
 <img width="800" height="auto" alt="output3" src="https://github.com/user-attachments/assets/ff1bc349-b451-42b4-bc88-bf3081414f4f" />
+
+  Both of the above graphs show the top 5 schools with the most individual champions, by decade just in different formats. The results illustrate that Oklahoma State dominated the NCAA D1 Wrestling Tournament from the start of the tournament, in 1928, through around 1960. The 1970s was pretty balanced among between Iowa State and Oklahoma State. From 1980 to 1990 Iowa was the clear top school for individual champions. During the 2000s Oklahoma State reclaimed the top spot. Then, from around 2010 through 2026 Penn State has absolutely dominated college wrestling with a big lead in individual champions.  
+
+
 <img width="800" height="auto" alt="output2" src="https://github.com/user-attachments/assets/4d3f33e7-ac44-48a5-8711-4bf04aef5c27" />
+
+  This graph shows the championship concentration of the top 25 schools compared to all other schools that have ever had an individual champion in the tournament. The results highlight the fact that the majority of champions are definitely concentrated among a small number of top programs. The right side of the y-axis shows the cumulative percentage of all championship and the red line on the graph helps illustrate that. Simply put, the red line tracks a running total of the percentage shown on the right side of the chart. Pick any point on the line and it tells you "counting every school up to this one, we have covered X% of all championships". The steep increase at first shows that a few top schools hold a disproportionate amount of all titles. The line flattens out towards the top of the graph because the remaining schools only add a small amount of championships to the running total. If titles were evenly distributed across all schools, then the line would be a straight diagonal. The gray dashed line marks the 80% point and shows that 19 of the top 25 schools account for 80% of all individual championships ever awarded. 
+
 <img width="800" height="auto" alt="output" src="https://github.com/user-attachments/assets/66037aca-0d98-4524-90b8-2af734bd1b7a" />
+
+This graph highlights the same conclusion as the previous graph, just in a different format because all the schools are plotted individually instead of showing the top 25 plus a combined "all other schools" bar. 
+
+5. Storytelling and Narrative
+
+  Using my research question, “Is there an association between the D1 wrestling program a wrestler attends and their likelihood of winning an individual championship, and are individual championships concentrated among a small number of top programs?”, the data I gathered, and the graphs make it easier to draw conclusions. Clearly, there is an association between the D1 wrestling program a wrestler attends and their likelihood of winning an individual championship. Secondly, the individual champions are largely concentrated among a small number of top programs. Since the tournament’s inauguration in 1928, Oklahoma State has had 148 champions, Iowa: 86, Iowa State: 71, Oklahoma: 67, and Penn State: 65. However, in recent years Penn State has been completely dominating the college wrestling scene. The Nittany Lions have won the NCAA D1 Wrestling Tournament team title (determined by how well each individual wrestler does) in 2011, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2022, 2023, 2024, 2025, and 2026. Additionally, since 2011 the Nittany Lions have had 44 individual champions followed by Oklahoma State’s 15, Cornell’s 14, Ohio State’s 11, and Iowa’s 8. Penn State is clearly the best NCAA D1 Wrestling Team in recent years and have had the majority of individual champions. The other top 4 schools since 2011 are Oklahoma State, Cornell, Ohio State, and Iowa. 
+
+<img width="690" height="auto" alt="output5" src="https://github.com/user-attachments/assets/5e19cfff-191d-4738-93a3-0558dd30332f" />
+
+This graph clearly shows Penn State's dominance in recent years as they have 29.3% of all individual champions from 2011 - 2026 compared to 7.2% from 1928 - 2026. 
+
+6. Limitations, Ethics, and Reflection
+What details does this dataset fail to capture?
+
+  Although the conclusions I have drawn are backed by data, there is some pieces of information this study fails to capture. The most important missing pieces of data that are not considered in my analysis are the number of appearances in the tournament per team, how new or old each program is, and differences in funding, facilities, and other resources that each team gets. Additionally, I only considered if a wrestler won the tournament or lost - I didn't examine any data on wrestlers who placed but didn’t win (2nd, All-American status, etc) 
+• What biases or collection gaps exist in the data?
+
+There isn't any bias in this data because it is either the wrestler won or they didn't. However, there are some slight collection gaps from 1943 - 1945 (no data, tournament cancelled due to World War 2) and 2020 (tournament cancelled due to Covid-19). Additionally, weight classes have changed slightly over the years as there hasn't always been 10 weight classes and the specific weight numbers have changed slightly over the years. 
+
+• What would you explore next if you had more time or data?
+
+If I had more time, I would gather data about each team’s total number of appearances and wrestlers sent to the tournament to get a better feel for what percentage of their wrestlers sent actually end up winning a title. Then I would see what percentage place compared to winning a title.
+
+In conclusion, there is an association between the D1 wrestling program a wrestler attends and their likelihood of winning an individual championship. Additionally, the individual champions are largely concentrated among a small number of top programs. The data analysis that I conducted is fairly thorough, but I there is always room for improvement. When looking at the findings of this study it should be considered that I did not include every variable possible. There are schools that very consistently produce lots of individual champions, but there are other factors that go into the wrestlers winning titles. Ultimately, it is possible to win a national title no matter what school you attend.  
+
 
