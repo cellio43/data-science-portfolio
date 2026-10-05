@@ -213,5 +213,20 @@ FloWrestling. (2025, March 22). *NCAA wrestling championships 2025 finals result
 ### 10. Code and Transparency 
   Throughout this project I used documentation resources from the pandas, scikit-learn, matplotlib, and nflreadpy libraries. I used some generative AI to help me with this assignment and the specific generative AI that I used was Claude AI. Claude AI was used to help me with code debugging if I ran into errors. More specifically, it helped me debug syntax errors and explained errors in my code when I was trying to train/test my models and was getting errors. 
 
+### 11. References 
+
+**Articles** 
+Benson, J. (2025, June 29). How Pro Football Hall of Fame members are selected. Front Office Sports. https://frontofficesports.com/pro-football-hall-of-fame-selection-process/
+
+Legwold, J. (2026, September 4). Pro Football HOF makes sweeping changes to selection process. ESPN. https://www.espn.com/nfl/story/_/id/49823476/pro-football-hof-makes-sweeping-changes-selection-process
+
+Pro Football Hall of Fame. (n.d.). Pro Football Hall of Fame. Retrieved October 4, 2026, from https://www.profootballhof.com/
+
+**Data Sources**
+Pro Football Hall of Fame. (n.d.-a). Hall of Famers. Retrieved October 4, 2026, from https://www.profootballhof.com/players
+
+https://github.com/nflverse/nflreadpy 
+
+
 
 
