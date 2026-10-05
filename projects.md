@@ -233,6 +233,7 @@ You can view my full code in my [GitHub repository](https://github.com/cellio43/
 ### 11. References 
 
 **Articles** 
+
 Benson, J. (2025, June 29). How Pro Football Hall of Fame members are selected. Front Office Sports. https://frontofficesports.com/pro-football-hall-of-fame-selection-process/
 
 Legwold, J. (2026, September 4). Pro Football HOF makes sweeping changes to selection process. ESPN. https://www.espn.com/nfl/story/_/id/49823476/pro-football-hof-makes-sweeping-changes-selection-process
@@ -240,6 +241,7 @@ Legwold, J. (2026, September 4). Pro Football HOF makes sweeping changes to sele
 Pro Football Hall of Fame. (n.d.). Pro Football Hall of Fame. Retrieved October 4, 2026, from https://www.profootballhof.com/
 
 **Data Sources**
+
 Pro Football Hall of Fame. (n.d.-a). Hall of Famers. Retrieved October 4, 2026, from https://www.profootballhof.com/players
 
 https://github.com/nflverse/nflreadpy 
